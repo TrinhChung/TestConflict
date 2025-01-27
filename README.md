@@ -1,6 +1,6 @@
 # TestConflict
 Demo conflict 
 
-Change step 1
+Step 1
 
 Change step 2
